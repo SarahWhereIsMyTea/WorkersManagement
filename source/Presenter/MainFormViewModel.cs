@@ -1,0 +1,6 @@
+﻿namespace Presenter
+{
+    class MainFormViewModel
+    {
+    }
+}
